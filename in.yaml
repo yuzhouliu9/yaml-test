@@ -1,0 +1,8 @@
+# this will NOT generate surrounding quotes
+#_schema: "a:${DRONE_TAG}"
+# this WILL generate surrounding quotes
+#_schema: "3:0"
+# this WILL generate surrounding quotes
+_schema: "a:"
+bar:
+- one
